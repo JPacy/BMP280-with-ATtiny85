@@ -4,4 +4,4 @@ This project interfaces an BMP280 temperature and pressure sensor with an ATtiny
 
 ## Programming
 
-The ATtiny85 is programmed using an Arduino as ISP with the PlatformIO extension in VScode. (avrdude).
+The ATtiny85 is programmed using an Arduino as ISP with the PlatformIO extension in VScode (avrdude).
